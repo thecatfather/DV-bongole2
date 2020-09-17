@@ -20,3 +20,5 @@ I tried to use this model to train a newer model based on self labelled blue con
   -results.avi, results2.avi, results3.avi correspond to the cone object detection without using trying to detect color of the cone. Maybe threshold of cone detection can be       increased. 
 
   -results1_1.avi and results3_1.avi correspond to (trying to) detect color of cones.
+
+The rule quiz file is FSDV.pdf
