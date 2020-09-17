@@ -6,10 +6,13 @@ I have tried 2 methods for Task1:
   1) Utilizes the colorthief library for getting dominant colors. (14/15 blue correct, 13/14 yellow correct)
   2) Uses HSV values and range of blue colors to get mask. (13/15 blue correct, 12/14 yellow correct)
   
-To run 
+To run 1st method of task1
 ``` 
-python KTHFSDV_perception_task1_1.py for 1st method of task1
-python KTHFSDV_perception_task1_2.py for 2nd method of task1
+python KTHFSDV_perception_task1_1.py 
+```
+To run 2nd method of task1
+```
+python KTHFSDV_perception_task1_2.py
 ```
 
 For Task2:
